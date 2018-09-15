@@ -97,11 +97,9 @@ class App extends Component {
                   <h3 className="mb-0">Web Programmer</h3>
                   <div className="subheading mb-3">Proweaver Inc.</div>
                   <ul>
-                     <li>Integrated API's like Synology API, Open Graph, Sketchfab API, Jira Cloud Rest API, Google Maps, Bing Maps.  </li>
                      <li>Develop corporate, e-commerce and custom web applications based from client’s requirements.</li>
                      <li>Manage and maintained development of PHP backend for dynamic driven web applications.</li>
                      <li>Used PHP, jQuery, MySQL, and Smarty for development.</li>
-
                   </ul>
                 </div>
                 <div className="resume-date text-md-right">
